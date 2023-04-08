@@ -58,7 +58,7 @@ function HeroBanner() {
             <Translate>Get Started</Translate>
           </Link>
           <Link className="button button--info" to="https://docusaurus.new">
-            <Translate>Try a Demo</Translate>
+            <Translate>Try a Demonstration</Translate>
           </Link>
           <span className={styles.indexCtasGitHubButtonWrapper}>
             <iframe
